@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\bin\Debug\net5.0\FiltredArray.exe
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\bin\Debug\net5.0\FiltredArray.deps.json
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\bin\Debug\net5.0\FiltredArray.runtimeconfig.json
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\bin\Debug\net5.0\FiltredArray.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\bin\Debug\net5.0\FiltredArray.dll
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\bin\Debug\net5.0\ref\FiltredArray.dll
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\bin\Debug\net5.0\FiltredArray.pdb
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\obj\Debug\net5.0\FiltredArray.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\obj\Debug\net5.0\FiltredArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\obj\Debug\net5.0\FiltredArray.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\obj\Debug\net5.0\FiltredArray.AssemblyInfo.cs
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\obj\Debug\net5.0\FiltredArray.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\obj\Debug\net5.0\FiltredArray.dll
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\obj\Debug\net5.0\ref\FiltredArray.dll
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\obj\Debug\net5.0\FiltredArray.pdb
+C:\Users\Marina\source\repos\CSharp-study\FiltredArray\obj\Debug\net5.0\FiltredArray.genruntimeconfig.cache

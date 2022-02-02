@@ -1,0 +1,15 @@
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\bin\Debug\net5.0\functional-task1.exe
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\bin\Debug\net5.0\functional-task1.deps.json
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\bin\Debug\net5.0\functional-task1.runtimeconfig.json
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\bin\Debug\net5.0\functional-task1.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\bin\Debug\net5.0\functional-task1.dll
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\bin\Debug\net5.0\ref\functional-task1.dll
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\bin\Debug\net5.0\functional-task1.pdb
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\obj\Debug\net5.0\functional-task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\obj\Debug\net5.0\functional-task1.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\obj\Debug\net5.0\functional-task1.AssemblyInfo.cs
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\obj\Debug\net5.0\functional-task1.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\obj\Debug\net5.0\functional-task1.dll
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\obj\Debug\net5.0\ref\functional-task1.dll
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\obj\Debug\net5.0\functional-task1.pdb
+C:\Users\Marina\source\repos\CSharp-study\functional-task1\obj\Debug\net5.0\functional-task1.genruntimeconfig.cache
