@@ -11,6 +11,10 @@ namespace OfficeEmployee
         public string position;
         public int workExperience;
         public List<Award> awards;
+        //Award singleAward;
+        //Award singleAward2;
+        //Award singleAward3;
+        //Award[] awards1;
 
         public OfficeEmployee(string userName)
         {
