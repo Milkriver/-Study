@@ -57,11 +57,13 @@ namespace CarsAbstraction
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var lada = new Car("lada");
-            var driver = new Driver();
-            driver.car = lada;
+            var driver = new Driver
+            {
+                car = lada
+            };
             Console.WriteLine(driver.car.Model);
             driver.car.Move();
 

@@ -42,11 +42,13 @@ namespace Cars
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var lada = new Car("lada");
-            var driver = new Driver();
-            driver.mini = lada;
+            var driver = new Driver
+            {
+                mini = lada
+            };
             driver.mini.Go();
 
             var bygatti = new ComplexCar("bygatti", "ComplexCar");

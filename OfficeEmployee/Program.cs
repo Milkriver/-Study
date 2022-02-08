@@ -18,11 +18,7 @@ namespace OfficeEmployee
 
         public OfficeEmployee(string userName)
         {
-            if (userName == null)
-            {
-                throw new Exception("Имя не может быть пустым");
-            }
-            name = userName;
+            name = userName ?? throw new Exception("Имя не может быть пустым");
             age = 0;
             gender = default;
             position = "Не определено";
@@ -92,14 +88,16 @@ namespace OfficeEmployee
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
 
-            var dmitry = new OfficeEmployee("Дмитрий");
-            dmitry.gender = GenderType.Male;
-            dmitry.age = 34;
-            dmitry.position = "Руководитель проектного отдела";
-            dmitry.workExperience = 5;
+            var dmitry = new OfficeEmployee("Дмитрий")
+            {
+                gender = GenderType.Male,
+                age = 34,
+                position = "Руководитель проектного отдела",
+                workExperience = 5
+            };
             dmitry.awards.Add(new Award()
             {
                 type = AwardType.Diploma,
@@ -114,11 +112,13 @@ namespace OfficeEmployee
             );
             dmitry.GetInfo();
 
-            var alexey = new OfficeEmployee("Алексей");
-            alexey.gender = GenderType.Male;
-            alexey.age = 55;
-            alexey.position = "Инженер";
-            alexey.workExperience = 10;
+            var alexey = new OfficeEmployee("Алексей")
+            {
+                gender = GenderType.Male,
+                age = 55,
+                position = "Инженер",
+                workExperience = 10
+            };
             alexey.awards.Add(new Award()
             {
                 type = AwardType.Diploma,
@@ -127,11 +127,13 @@ namespace OfficeEmployee
             );
             alexey.GetInfo();
 
-            var anastasia = new OfficeEmployee("Анастасия");
-            anastasia.gender = GenderType.Female;
-            anastasia.age = 23;
-            anastasia.position = "Секретарь";
-            anastasia.workExperience = 1;
+            var anastasia = new OfficeEmployee("Анастасия")
+            {
+                gender = GenderType.Female,
+                age = 23,
+                position = "Секретарь",
+                workExperience = 1
+            };
             anastasia.GetInfo();
 
             Console.Write("Введите имя сотрудника и нажмите клавишу Enter: ");

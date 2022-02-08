@@ -33,11 +33,9 @@ namespace AbstractClass
 
        class ComplexCar : CarBase
     {
-        private string color;
-        public ComplexCar(string model, string color)
+        public ComplexCar(string model)
         {
             Model = model;
-            this.color = color;
         }
     }
 
@@ -47,17 +45,18 @@ namespace AbstractClass
     }
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             var lada = new Car("lada");
-            var driver = new Driver();
-            driver.car = lada;
+            var driver = new Driver
+            {
+                car = lada
+            };
             Console.WriteLine(driver.car.Model);
             driver.car.Move();
 
-            var bygatti = new ComplexCar("bygatti", "ComplexCar");
+            var bygatti = new ComplexCar("bygatti");
             driver.car = bygatti;
-            //bygatti.color; - Инкапсуляция
             driver.car.Move();
             Console.WriteLine(driver.car.Model);
             Console.ReadKey();
