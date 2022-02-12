@@ -9,15 +9,15 @@ namespace ProductConstructor
         public double price;
         public int quantity;
 
-        public Product(string name, string description, double price, int quantity )
+        public Product(string name, string description, double price, int quantity)
         {
             this.name = name;
             this.description = description;
             this.price = price;
             this.quantity = quantity;
-            
+
         }
-         public void GetInfo()
+        public void GetInfo()
         {
             Console.WriteLine($"Название товара: {name}");
             Console.WriteLine($"Описание: {description}");
@@ -26,6 +26,7 @@ namespace ProductConstructor
             Console.WriteLine();
 
         }
+
         class Program
         {
             static void Main()

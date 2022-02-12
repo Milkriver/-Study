@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectOrientedProgramming",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReaderForFiles", "ReaderForFiles\ReaderForFiles.csproj", "{2B32C26A-13AD-4D76-BF85-EE0A4BFFDDB5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables.csproj", "{CDAB839D-E286-40AD-8B01-DE19777417BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{2B32C26A-13AD-4D76-BF85-EE0A4BFFDDB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B32C26A-13AD-4D76-BF85-EE0A4BFFDDB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B32C26A-13AD-4D76-BF85-EE0A4BFFDDB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDAB839D-E286-40AD-8B01-DE19777417BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDAB839D-E286-40AD-8B01-DE19777417BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDAB839D-E286-40AD-8B01-DE19777417BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDAB839D-E286-40AD-8B01-DE19777417BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
